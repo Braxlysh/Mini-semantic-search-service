@@ -15,7 +15,7 @@ docker compose up --build
 
 # Пример использования
 * GET /create
-![img](img\get.png)
+![img](img/get.png)
 
 * POST /search
-![img2](img\post.png)
+![img2](img/post.png)
