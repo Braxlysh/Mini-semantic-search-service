@@ -18,4 +18,4 @@ docker compose up --build
 ![img](img\get.png)
 
 * POST /search
-![img](img\post.png)
+![img2](img\post.png)
